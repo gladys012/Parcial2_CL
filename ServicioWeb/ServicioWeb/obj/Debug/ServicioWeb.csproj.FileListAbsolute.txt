@@ -1,0 +1,17 @@
+C:\Users\Rick\Desktop\Parcial2_CP\ServicioWeb\ServicioWeb\bin\ServicioWeb.dll.config
+C:\Users\Rick\Desktop\Parcial2_CP\ServicioWeb\ServicioWeb\bin\ServicioWeb.dll
+C:\Users\Rick\Desktop\Parcial2_CP\ServicioWeb\ServicioWeb\bin\ServicioWeb.pdb
+C:\Users\Rick\Desktop\Parcial2_CP\ServicioWeb\ServicioWeb\obj\Debug\ServicioWeb.csprojAssemblyReference.cache
+C:\Users\Rick\Desktop\Parcial2_CP\ServicioWeb\ServicioWeb\obj\Debug\ServicioWeb.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Desktop\Parcial2_CP\ServicioWeb\ServicioWeb\obj\Debug\ServicioWeb.dll
+C:\Users\Rick\Desktop\Parcial2_CP\ServicioWeb\ServicioWeb\obj\Debug\ServicioWeb.pdb
+C:\Users\Rick\Desktop\Parcial2_CP\ServicioWeb\ServicioWeb\bin\Mono.Security.dll
+C:\Users\Rick\Desktop\Parcial2_CP\ServicioWeb\ServicioWeb\bin\Npgsql.dll
+C:\Users\Rick\Desktop\Parcial2_CP\ServicioWeb\ServicioWeb\bin\Npgsql.xml
+C:\Users\Rick\Desktop\Parcial2_CP\ServicioWeb\ServicioWeb\bin\de\Npgsql.resources.dll
+C:\Users\Rick\Desktop\Parcial2_CP\ServicioWeb\ServicioWeb\bin\es\Npgsql.resources.dll
+C:\Users\Rick\Desktop\Parcial2_CP\ServicioWeb\ServicioWeb\bin\fi\Npgsql.resources.dll
+C:\Users\Rick\Desktop\Parcial2_CP\ServicioWeb\ServicioWeb\bin\fr\Npgsql.resources.dll
+C:\Users\Rick\Desktop\Parcial2_CP\ServicioWeb\ServicioWeb\bin\ja\Npgsql.resources.dll
+C:\Users\Rick\Desktop\Parcial2_CP\ServicioWeb\ServicioWeb\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Rick\Desktop\Parcial2_CP\ServicioWeb\ServicioWeb\obj\Debug\ServicioWeb.csproj.CopyComplete

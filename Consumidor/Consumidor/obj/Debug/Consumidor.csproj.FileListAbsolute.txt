@@ -1,0 +1,7 @@
+C:\Users\Rick\source\repos\Consumidor\Consumidor\bin\Consumidor.dll.config
+C:\Users\Rick\source\repos\Consumidor\Consumidor\bin\Consumidor.dll
+C:\Users\Rick\source\repos\Consumidor\Consumidor\bin\Consumidor.pdb
+C:\Users\Rick\source\repos\Consumidor\Consumidor\obj\Debug\Consumidor.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\Consumidor\Consumidor\obj\Debug\Consumidor.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\Consumidor\Consumidor\obj\Debug\Consumidor.dll
+C:\Users\Rick\source\repos\Consumidor\Consumidor\obj\Debug\Consumidor.pdb
